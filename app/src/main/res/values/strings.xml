@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EventFilter</string>
+    <string name="endpoint_cloud_service">https://s3-ap-southeast-2.amazonaws.com/</string>
+    <string name="label_fragment_events">Events</string>
+    <string name="label_name">"Name: %s"</string>
+    <string name="label_venue">Venue: %s</string>
+    <string name="label_price">Price: %s</string>
+    <string name="label_retry">Retry</string>
+</resources>
